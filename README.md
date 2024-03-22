@@ -33,7 +33,7 @@ Licensed under the Apache License. See [LICENSE](/LICENSE)
 
 ## Author
 
-IBM Skills Network
+IBM Skills Network<br/>
 Anant Kataria
 
 ## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
